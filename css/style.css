@@ -946,3 +946,9 @@ border-radius: 50%;
     height: auto;
     display: block;     /*Removes extra space */
 }
+.contact:hover .dial {
+    display: inline;
+  }
+  .dial {
+    display: none;
+  }
